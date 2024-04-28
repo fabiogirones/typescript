@@ -44,7 +44,5 @@ let employee: {
     }
 };
 
-employee name = "Mosh";
-
 
 
